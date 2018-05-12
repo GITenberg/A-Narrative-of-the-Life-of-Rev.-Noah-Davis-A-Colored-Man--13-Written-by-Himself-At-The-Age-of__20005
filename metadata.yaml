@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9453'
     url: http://www.gutenberg.org/2009/agents/9453
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20005#A-Narrative-of-the-Life-of-Rev.-Noah-Davis-A-Colored-Man--13-Written-by-Himself-At-The-Age-of_
 gutenberg_issued: '2006-12-03'
 gutenberg_type: Text
 identifiers:
